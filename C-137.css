@@ -1,0 +1,56 @@
+header {
+    text-align: center;
+    color: rgb(61, 99, 223);
+    font-weight: Bold;
+    font-size: 80px;
+    text-shadow:
+		-1px -1px 0 #FFFF00,
+		1px -1px 0 #FFFF00,
+		-1px 1px 0 #FFFF00,
+        1px 1px 0 #FFFF00; 
+}
+body {
+    background-image: url("starry_sky_stars_night_116961_938x1668-576x1024.jpg");
+}
+h2{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 44px;
+    color: rgb(61, 99, 223);
+    text-shadow:
+		-1px -1px 0 #FFFF00,
+		1px -1px 0 #FFFF00,
+		-1px 1px 0 #FFFF00,
+        1px 1px 0 #FFFF00;
+}
+h3{
+    margin-top: 50px;
+    text-align: center;
+    text-indent: 20px;
+    font-size: 22px;
+    color: khaki;
+    text-shadow:
+		-1px -1px 0 black,
+		1px -1px 0 black,
+		-1px 1px 0 black,
+        1px 1px 0 black; 
+}
+p02{
+    float: center;
+}
+h4{
+    text-align: center;
+    font-size: 44px;
+    color: rgb(61, 99, 223);
+    text-shadow:
+		-1px -1px 0 #FFFF00,
+		1px -1px 0 #FFFF00,
+		-1px 1px 0 #FFFF00,
+        1px 1px 0 #FFFF00; 
+}
+iframe{
+    display: block;
+    margin: 0 auto;
+}
