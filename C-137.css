@@ -12,7 +12,7 @@ header {
 body {
     background-image: url("starry_sky_stars_night_116961_938x1668-576x1024.jpg");
 }
-h2{
+h2 {
     margin-bottom: 20px;
     margin-top: 20px;
     font-weight: bold;
@@ -25,22 +25,22 @@ h2{
 		-1px 1px 0 #FFFF00,
         1px 1px 0 #FFFF00;
 }
-h3{
+h3 {
     margin-top: 50px;
     text-align: center;
     text-indent: 20px;
     font-size: 22px;
-    color: khaki;
+    color: lightgrey;
     text-shadow:
 		-1px -1px 0 black,
 		1px -1px 0 black,
 		-1px 1px 0 black,
         1px 1px 0 black; 
 }
-p02{
+p02 {
     float: center;
 }
-h4{
+h4 {
     text-align: center;
     font-size: 44px;
     color: rgb(61, 99, 223);
@@ -50,7 +50,7 @@ h4{
 		-1px 1px 0 #FFFF00,
         1px 1px 0 #FFFF00; 
 }
-iframe{
+iframe {
     display: block;
     margin: 0 auto;
 }
